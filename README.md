@@ -17,8 +17,8 @@ Alle Daten werden auf einem privaten Server gespeichert und nicht an Dritte weit
 Mit deiner Erlaubnis senden wir Push-Benachrichtigungen wenn Freunde einchecken.
 
 ## Datenlöschung
-Zur Löschung deines Accounts kontaktiere uns unter: whay.saarland@gmail.com
+Zur Löschung deines Accounts kontaktiere uns unter: sanevos1337@gmail.com
 
 ## Kontakt
 SanEvos  
-whay.saarland@gmail.com
+sanevos1337@gmail.com
