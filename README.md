@@ -22,3 +22,13 @@ Zur Löschung deines Accounts kontaktiere uns unter: sanevos1337@gmail.com
 ## Kontakt
 SanEvos  
 sanevos1337@gmail.com
+
+## Account löschen
+
+Um deinen Account zu löschen, schreibe eine Email an: sanevos1337@gmail.com
+
+Betreff: "Account löschen - [dein Benutzername]"
+
+Wir löschen deinen Account innerhalb von 14 Tagen.
+
+https://docs.google.com/forms/d/e/1FAIpQLSctoVGQyxaBdVHQRfZm0dP34vuCYA-bG7v8wx6Bm8eoetmOuQ/viewform?usp=sharing&ouid=118209497470265675435
