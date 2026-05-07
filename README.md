@@ -14,7 +14,7 @@ Whay! erhebt folgende Daten:
 Alle Daten werden auf einem privaten Server gespeichert und nicht an Dritte weitergegeben.
 
 ## Push Notifications
-Mit deiner Erlaubnis senden wir Push-Benachrichtigungen wenn Freunde einchecken.
+Mit deiner Erlaubnis senden wir Push-Benachrichtigungen, wenn Freunde einchecken.
 
 ## Kinderschutz
 Whay! ist eine App für Erwachsene (18+). Die App enthält keine nutzergenerierten Inhalte außer Benutzernamen. Missbrauch kann gemeldet werden an: sanevos1337@gmail.com
